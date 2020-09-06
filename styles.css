@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'GT Walsheim Pro';
+    src: local('GT Walsheim Pro'),
+    local('GT-Walsheim-Pro'),
+    url('./assets/fonts/GTWalsheimPro-Bold.woff2') format('woff2'),
+    url('./assets/fonts/GTWalsheimPro-Bold.woff') format('woff'),
+    url('./assets/fonts/GTWalsheimPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
 html,
 body {
     margin: 0;
@@ -28,9 +39,9 @@ html {
 }
 
 .name {
-    font-family: sans-serif, 'GT Walsheim Pro';
+    font-family: 'GT Walsheim Pro', sans-serif;
     font-size: 26px;
-    font-weight: bold;
+    font-weight: 700;
     margin-top: 48px;
     color: #fff;
 }
@@ -130,7 +141,7 @@ html {
     bottom: 185px;
     width: 30px;
     height: 30px;
-    background-image: url('./assets/decoration-ziczag.svg');
+    background-image: url('assets/images/decoration-ziczag.svg');
     background-size: cover;
 }
 
@@ -139,7 +150,7 @@ html {
     bottom: 59px;
     width: 30px;
     height: 30px;
-    background-image: url('./assets/star.svg');
+    background-image: url('assets/images/star.svg');
     background-size: cover;
 }
 
