@@ -16,7 +16,7 @@
 <body class='page'>
 <div class='wrapper'>
     <div class='logo'>
-        <img src='assets/images/replica-logo.svg' width='100%'/>
+        <img class='logo__content' src='assets/images/replica-logo.svg' width='100%'/>
     </div>
     <div class='name'>Подкаст про общение</div>
     <div class='references'>
@@ -39,5 +39,10 @@
         <div class='decoration decoration--ziczag'></div>
     </div>
 </div>
+
+<script>
+    const replicaLogoElement = document.querySelector('.logo__content');
+    replicaLogoElement.innerHTML = `<img src=\'assets/images/ref-soundcloud.svg?${new Date().getTime()}\' width=\'100%\'/>`;
+</script>
 </body>
 </html>
