@@ -57,6 +57,11 @@ html {
     color: #fff;
 }
 
+.paragraph {
+    font-family: 'GT Walsheim Pro', sans-serif;
+    color: #fff;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -187,8 +192,9 @@ html {
 
 .info__column {
     display: flex;
+    min-width: 300px;
     flex-direction: column;
-    margin-left: 50px;
+    color: #fff;
 }
 
 @media (max-width: 768px) {
