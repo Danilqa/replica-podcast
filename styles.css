@@ -175,6 +175,23 @@ html {
     z-index: -1;
 }
 
+.info {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    width: 600px;
+    height: 100%;
+    flex-direction: column;
+    overflow: scroll;
+    padding-bottom: 10px;
+}
+
+.info__column {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
 @media (max-width: 768px) {
 
     .decoration-surface {
