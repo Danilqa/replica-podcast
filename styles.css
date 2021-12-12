@@ -182,7 +182,6 @@ html {
     width: 600px;
     height: 100%;
     flex-direction: column;
-    overflow: scroll;
     padding-bottom: 10px;
 }
 
