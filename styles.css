@@ -26,7 +26,7 @@ html {
 
 .page {
     display: flex;
-    overflow: hidden;
+    overflow-y: auto;
     position: relative;
     animation-name: fade-in;
     animation-duration: 0.2s;
@@ -68,7 +68,7 @@ html {
     margin: auto;
     align-items: center;
     width: 300px;
-    height: 500px;
+    padding: 50px 0;
 }
 
 .references {
@@ -85,6 +85,10 @@ html {
     animation: heart-pulse 0.8s ease-out alternate;
     animation-iteration-count: infinite;
     text-decoration: none;
+}
+
+.references__item--horizontal {
+    width: 50%;
 }
 
 .references__item:hover:before {
@@ -130,6 +134,15 @@ html {
     left: 200px;
     top: 230px;
     width: 40px;
+    height: 2px;
+    background-color: #fff;
+}
+
+.decoration--line-4 {
+    transform: rotate(-50deg);
+    right: 200px;
+    top: 750px;
+    width: 50px;
     height: 2px;
     background-color: #fff;
 }
