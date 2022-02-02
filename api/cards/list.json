@@ -1,0 +1,64 @@
+{
+    "ru": [
+        {
+            "id": "communication",
+            "title": "ОБЩЕНИЕ",
+            "description": "Начать общаться качественнее",
+            "bgColor": "#00cec9",
+            "version": 1
+        },
+        {
+            "id": "you",
+            "title": "ВЫ",
+            "description": "Узнать особенности друг друга",
+            "bgColor": "#fdcb6e",
+            "version": 1
+        },
+        {
+            "id": "sex",
+            "title": "СЕКС",
+            "description": "Узнать предпочтения и не гадать",
+            "bgColor": "#fa79af",
+            "version": 1
+        },
+        {
+            "id": "values",
+            "title": "ЦЕННОСТИ",
+            "description": "Понять себя и других ещё глубже",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 1
+        }
+    ],
+    "en": [
+        {
+            "id": "communication",
+            "title": "COMMUNICATION",
+            "description": "Start communicating better",
+            "bgColor": "#00cec9",
+            "version": 1
+        },
+        {
+            "id": "you",
+            "title": "YOU",
+            "description": "Get to know each other from different angles",
+            "bgColor": "#fdcb6e",
+            "version": 1
+        },
+        {
+            "id": "sex",
+            "title": "SEX",
+            "description": "Find out preferences and don't guess",
+            "bgColor": "#fa79af",
+            "version": 1
+        },
+        {
+            "id": "values",
+            "title": "VALUES",
+            "description": "Understand yourself and others more deeply",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 1
+        }
+    ]
+}
