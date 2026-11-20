@@ -1,56 +1,25 @@
 {
-    "ru": [
-        {
-            "id": "communication",
-            "title": "ОБЩЕНИЕ",
-            "description": "Начать общаться качественнее",
-            "bgColor": "#00cec9",
-            "version": 1
-        },
-        {
-            "id": "you",
-            "title": "ВЫ",
-            "description": "Узнать особенности друг друга",
-            "bgColor": "#fdcb6e",
-            "version": 1
-        },
-        {
-            "id": "sex",
-            "title": "СЕКС",
-            "description": "Узнать предпочтения и не гадать",
-            "bgColor": "#fa79af",
-            "version": 1
-        },
-        {
-            "id": "values",
-            "title": "ЦЕННОСТИ",
-            "description": "Понять себя и других ещё глубже",
-            "bgColor": "#a29bfe",
-            "type": "secondary",
-            "version": 1
-        }
-    ],
     "en": [
         {
             "id": "communication",
             "title": "COMMUNICATION",
             "description": "Start communicating better",
             "bgColor": "#00cec9",
-            "version": 1
+            "version": 2
         },
         {
             "id": "you",
             "title": "YOU",
             "description": "Get to know each other from different angles",
             "bgColor": "#fdcb6e",
-            "version": 1
+            "version": 2
         },
         {
             "id": "sex",
             "title": "SEX",
-            "description": "Find out preferences and don't guess",
+            "description": "Learn each other's preferences instead of guessing",
             "bgColor": "#fa79af",
-            "version": 1
+            "version": 2
         },
         {
             "id": "values",
@@ -58,7 +27,317 @@
             "description": "Understand yourself and others more deeply",
             "bgColor": "#a29bfe",
             "type": "secondary",
-            "version": 1
+            "version": 2
+        }
+    ],
+    "ru": [
+        {
+            "id": "communication",
+            "title": "ОБЩЕНИЕ",
+            "description": "Начать общаться качественнее",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "ВЫ",
+            "description": "Узнать особенности друг друга",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "СЕКС",
+            "description": "Узнать предпочтения и не гадать",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "ЦЕННОСТИ",
+            "description": "Понять себя и других ещё глубже",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "uk": [
+        {
+            "id": "communication",
+            "title": "СПІЛКУВАННЯ",
+            "description": "Почати спілкуватися краще",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "ВИ",
+            "description": "Пізнати одне одного з різних боків",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "СЕКС",
+            "description": "Дізнатися вподобання одне одного й не гадати",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "ЦІННОСТІ",
+            "description": "Глибше зрозуміти себе та інших",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "de": [
+        {
+            "id": "communication",
+            "title": "KOMMUNIKATION",
+            "description": "Besser miteinander reden",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "DU",
+            "description": "Einander von allen Seiten kennenlernen",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "SEX",
+            "description": "Vorlieben kennenlernen, statt zu raten",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "WERTE",
+            "description": "Sich selbst und andere tiefer verstehen",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "es": [
+        {
+            "id": "communication",
+            "title": "COMUNICACIÓN",
+            "description": "Empezar a comunicarse mejor",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "TÚ",
+            "description": "Conocerse desde distintos ángulos",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "SEXO",
+            "description": "Conocer los gustos de la otra persona sin tener que adivinar",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "VALORES",
+            "description": "Entenderse y entender a los demás más a fondo",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "fr": [
+        {
+            "id": "communication",
+            "title": "COMMUNICATION",
+            "description": "Mieux communiquer, dès aujourd'hui",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "VOUS",
+            "description": "Apprendre à se connaître sous tous les angles",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "SEXE",
+            "description": "Découvrir les préférences de l'autre au lieu de deviner",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "VALEURS",
+            "description": "Comprendre plus en profondeur soi-même et les autres",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "it": [
+        {
+            "id": "communication",
+            "title": "COMUNICAZIONE",
+            "description": "Iniziare a comunicare meglio",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "VOI",
+            "description": "Conoscersi da angolazioni diverse",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "SESSO",
+            "description": "Scoprire i gusti reciproci senza tirare a indovinare",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "VALORI",
+            "description": "Capire più a fondo sé stessi e gli altri",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "ja": [
+        {
+            "id": "communication",
+            "title": "コミュニケーション",
+            "description": "もっと上手に伝え合おう",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "素顔",
+            "description": "いろんな角度からお互いを知ろう",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "セックス",
+            "description": "当てずっぽうはやめて、お互いの好みを知ろう",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "価値観",
+            "description": "自分も相手も、もっと深く理解しよう",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "ko": [
+        {
+            "id": "communication",
+            "title": "소통",
+            "description": "더 잘 통하는 대화의 시작",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "서로",
+            "description": "서로의 여러 모습 알아 가기",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "섹스",
+            "description": "추측 대신 서로의 취향 알기",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "가치관",
+            "description": "나와 타인을 더 깊이 이해하기",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "pl": [
+        {
+            "id": "communication",
+            "title": "KOMUNIKACJA",
+            "description": "Zacznijcie lepiej się porozumiewać",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "WY",
+            "description": "Poznajcie się z różnych stron",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "SEKS",
+            "description": "Poznajcie nawzajem swoje upodobania, zamiast zgadywać",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "WARTOŚCI",
+            "description": "Zrozumcie głębiej siebie i innych",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
+        }
+    ],
+    "pt-BR": [
+        {
+            "id": "communication",
+            "title": "COMUNICAÇÃO",
+            "description": "Comece a se comunicar melhor",
+            "bgColor": "#00cec9",
+            "version": 2
+        },
+        {
+            "id": "you",
+            "title": "VOCÊS",
+            "description": "Conheçam-se sob diferentes ângulos",
+            "bgColor": "#fdcb6e",
+            "version": 2
+        },
+        {
+            "id": "sex",
+            "title": "SEXO",
+            "description": "Descubram do que vocês gostam, sem precisar adivinhar",
+            "bgColor": "#fa79af",
+            "version": 2
+        },
+        {
+            "id": "values",
+            "title": "VALORES",
+            "description": "Entenda mais a fundo quem você é e as pessoas ao seu redor",
+            "bgColor": "#a29bfe",
+            "type": "secondary",
+            "version": 2
         }
     ]
 }
